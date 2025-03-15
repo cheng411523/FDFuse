@@ -26,9 +26,19 @@ This is the official implementation of our paper titled "FDFuse: Infrared and Vi
 * Ensure that the data and pre-trained weights are prepared and placed in the designated folder.
 * Execute "test.py" to perform the testing.
 
-
+## Citation
+```
+@article{cheng2025lefuse,
+  title={LEFuse: Joint low-light enhancement and image fusion for nighttime infrared and visible images},
+  author={Cheng, Muhang and Huang, Haiyan and Liu, Xiangyu and Mo, Hongwei and Zhao, Xiongbo and Wu, Songling},
+  journal={Neurocomputing},
+  pages={129592},
+  year={2025},
+  publisher={Elsevier}
+}
+``` 
 
 ## 📖 Related Work
 - Zhao Z, Bai H, Zhang J, et al. Cddfuse: Correlation-driven dual-branch feature decomposition for multi-modality image fusion[C]//Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2023: 5906-5916.
 - Li H, Wu X J. CrossFuse: A novel cross attention mechanism based infrared and visible image fusion approach[J]. Information Fusion, 2024, 103: 102147.
->>>>>>> 2cd09e9 (“0515”)
+
