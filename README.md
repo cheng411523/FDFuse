@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# FDFuse
-=======
 # FDFuse
 ## 🙌Introduction
 This is the official implementation of our paper titled "FDFuse: Infrared and Visible Image Fusion Based on Feature Decomposition". This paper has been accepted by IEEE Transactions on Instrumentation and Measurement (IEEE TIM).
