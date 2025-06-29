@@ -1,7 +1,7 @@
 # FDFuse
 ## 🙌Introduction
-This is the official implementation of our paper titled "FDFuse: Infrared and Visible Image Fusion Based on Feature Decomposition". This paper has been accepted by IEEE Transactions on Instrumentation and Measurement (IEEE TIM).
-
+* This is the official implementation of our paper titled "FDFuse: Infrared and Visible Image Fusion Based on Feature Decomposition". This paper has been accepted by IEEE Transactions on Instrumentation and Measurement (IEEE TIM).
+* If you have any question about this code, feel free to reach me(cheng411523@163.com)
 
 <!-- -[*[Paper]*](paper url)   -->
 
@@ -25,13 +25,12 @@ This is the official implementation of our paper titled "FDFuse: Infrared and Vi
 
 ## Citation
 ```
-@article{cheng2025lefuse,
-  title={LEFuse: Joint low-light enhancement and image fusion for nighttime infrared and visible images},
-  author={Cheng, Muhang and Huang, Haiyan and Liu, Xiangyu and Mo, Hongwei and Zhao, Xiongbo and Wu, Songling},
-  journal={Neurocomputing},
-  pages={129592},
+@article{cheng2025fdfuse,
+  title={FDFuse: Infrared and Visible Image Fusion Based on Feature Decomposition},
+  author={Cheng, Muhang and Huang, Haiyan and Liu, Xiangyu and Mo, Hongwei and Wu, Songling and Zhao, Xiongbo},
+  journal={IEEE Transactions on Instrumentation and Measurement},
   year={2025},
-  publisher={Elsevier}
+  publisher={IEEE}
 }
 ``` 
 
