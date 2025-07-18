@@ -3,14 +3,7 @@
 * This is the official implementation of our paper titled "FDFuse: Infrared and Visible Image Fusion Based on Feature Decomposition". This paper has been accepted by IEEE Transactions on Instrumentation and Measurement (IEEE TIM).
 * If you have any question about this code, feel free to reach me(cheng411523@163.com)
 
-<!-- -[*[Paper]*](paper url)   -->
-
-### ⚙ Network Architecture
-<img src="Figure//Framework.png" width="68%" align=center />
-
-
-### ⚙ Visualization
-<img src="Figure//MSRS.png" width="68%" align=center />
+-[*[Paper]*](https://ieeexplore.ieee.org/abstract/document/10930622)  
 
 
 
